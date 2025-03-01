@@ -23,7 +23,6 @@ opt.smartindent    = true
 opt.expandtab      = true     -- Use spaces instead of tabs
 --- Mouse
 opt.mouse          = 'a'
-opt.mousemoveevent = true
 opt.scrolloff      = 8 -- scrolloff offset
 opt.sidescrolloff  = 8 -- sidescrolloff offset
 --- Spellchecking
